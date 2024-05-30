@@ -1,0 +1,10 @@
+1|pepene|fruct|Numele a două specii de plante erbacee din familia cucurbitaceelor, cu tulpină târâtoare lungă și cu fructe comestibile|file:///D:/FACULTATE/Anul II/Semestrul II/MVP/Teme/Tema1/Tema1/Tema1/pepene.jpg
+2|mașină|transport|Autovehicul deținut și utilizat în principal pentru uz personal și non-comercial|file:///D:/FACULTATE/Anul II/Semestrul II/MVP/Teme/Tema1/Tema1/Tema1/car.png
+3|pensula|obiect|frrfrrfr|file:///D:/FACULTATE/Anul II/Semestrul II/MVP/Teme/Tema1/Tema1/Tema1/pensula.webp
+4|test|animal|test|pack://application:,,,/Tema1;component/noImage.jpg
+5|geantă|obiect|Fructul de formă alungită, de culoare vânătă sau gălbuie, cu sâmbure mare|file:///D:/FACULTATE/Anul II/Semestrul II/MVP/Teme/Tema1/Tema1/Tema1/geanta.jpg
+6|kiwi|fruct|Fruct comestibil al plantei Actinidia chinensis din Asia, cu formă ovală, de mărimea unui măr mijlociu, cu miezul verde, cărnos, acrișor și cu coaja pufoasă, verde-maronie|file:///D:/FACULTATE/Anul II/Semestrul II/MVP/Teme/Tema1/Tema1/Tema1/kiwi.jpg
+7|pantofi|încălțăminte|Încălțăminte de stradă din piele, din materiale sintetice sau din pânză, care acoperă laba piciorului până la gleznă|file:///D:/FACULTATE/Anul II/Semestrul II/MVP/Teme/Tema1/Tema1/Tema1/pantofi.jpg
+8|rochie|îmbrăcăminte|Obiect de îmbrăcăminte|file:///D:/FACULTATE/Anul II/Semestrul II/MVP/Teme/Tema1/Tema1/Tema1/rochie.png
+9|rrr|animal|rrrrr|D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Tema1\Tema1\Tema1\noImage.jpg
+10|rgrggt|animal|ththth|D:\FACULTATE\Anul II\Semestrul II\MVP\Teme\Tema1\Tema1\Tema1\noImage.jpg

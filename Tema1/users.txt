@@ -1,0 +1,2 @@
+utilizator1:parola1
+utilizator2:parola2
