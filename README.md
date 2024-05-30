@@ -6,7 +6,7 @@ This project involves creating an explanatory dictionary application using C# an
 ## Features
 
 ### Administrative Module
-- **User Authentication**: Requires a username and password for access. User accounts are stored in a predefined text file (TXT, JSON, CSV, XML).
+- **User Authentication**: Requires a username and password for access. User accounts are stored in a predefined text file (TXT).
 - **Word Management**: Allows adding, modifying, and deleting words in the dictionary. Each word includes a description, category (mandatory), and an optional image (with a default image if none is provided).
 - **Category Management**: Words are categorized, and new categories can be added dynamically. Categories are stored in a text file.
 - **Validations**: Ensures proper input for all fields in the administrative form.
